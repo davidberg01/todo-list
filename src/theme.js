@@ -3,6 +3,7 @@ import sol from "./assets/sol.svg"
 import { useState } from "react"
 
 function Theme() {
+
     const [isActive, setIsActive] = useState(false)
 
     function trocar() {

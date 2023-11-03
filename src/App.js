@@ -7,10 +7,10 @@ import Todo from "./todo.js"
 function App() {
 
     return (
-            <div  className="App">
+            <div class="dark:bg-[#252525]"  className="App">
         <div >
           
-      <h1 class='text-5xl font-bold mt-16'>TODO LIST</h1>
+      <h1 class='text-5xl font-bold mt-16 dark:text-white'>TODO LIST</h1>
 
 
 <form class='flex items-center space-x-3.5 h-10 mt-4'>
